@@ -67,7 +67,7 @@
 
   <section class="games">
     <div class="game-card">
-      <img src="https://www.youtube.com/watch?v=xv3wFGGeIsIpp=ygURZ3RhIGZ1bGwgZ2FtZXBsYXk%3D" alt="_GTA V">Watch Gameplay
+      <img src="https://www.youtube.com/watch?" alt="GTA V">
       <h3>GTA V</h3>
       <p>Open-world action and crazy adventures.</p>
     </div>
