@@ -1,4 +1,9 @@
-# GAMES-WORLD<!DOCTYPE html>
+   }
+    h1 {
+      font-size: 3em;
+      margin: 0;
+      color: #00ffcc;
+      text# GAMES-WORLD<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -14,12 +19,7 @@
     header {
       padding: 40px;
       background: linear-gradient(90deg, #1a1a1a, #333);
-    }
-    h1 {
-      font-size: 3em;
-      margin: 0;
-      color: #00ffcc;
-      text-shadow: 0 0 10px #00ffcc;
+ -shadow: 0 0 10px #00ffcc;
     }
     .games {
       display: flex;
